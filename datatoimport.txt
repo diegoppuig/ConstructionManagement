@@ -1,0 +1,7 @@
+1234567#7654321#dirrecion 71#12#2001#45
+5
+stones#500
+paper#6000
+water#21
+milk#4299
+peanuts#14000
